@@ -1,6 +1,6 @@
 ## Attomarker
 
-Attomarker is a nanophotonic biochemical testing Company, founded in 2008.
+Attomarker is a UK based nanophotonic biochemical testing company, founded in 2008.
 Attomarker works in the personalised medicine market and focuses on four global pandemics: 
 * COVID-19
 * Obesity
