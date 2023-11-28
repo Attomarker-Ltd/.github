@@ -1,10 +1,11 @@
 ## Attomarker
 
 Attomarker is a UK based nanophotonic biochemical testing company, founded in 2008.
-Attomarker works in the personalised medicine market and focuses on four global pandemics: 
+Attomarker works in the personalised medicine market and focuses on global pandemics: 
 * COVID-19
 * Obesity
 * Food Allergy
+* Infection control
 * Antimicrobial Resistance (AMR). 
 
 The company has developed a technology for measuring multiple biomarkers in blood and saliva to provide a personal profile for up to 20 tests in 7 minutes. 
